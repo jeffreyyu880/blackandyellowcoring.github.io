@@ -96,6 +96,8 @@ html, body {
 {
   color: #F6D44E;
   font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 60px;
   text-transform: uppercase;
   text-shadow: .1rem .1rem .5rem black;
 }
@@ -112,7 +114,6 @@ html, body {
 
 /*=============ABOUT SECTION=============*/
 .heading-sections{
-  text-align: center;
   padding-bottom: 1rem;
   border-bottom: 2px solid #F6D44E;
   display: inline-block;
@@ -130,6 +131,7 @@ html, body {
 /*============= 3 COLUMN CONTENT =============*/
 .testimonial-box{
   background-color: white;
+  font-size: 18px;
   padding: 1rem;
 }
 
