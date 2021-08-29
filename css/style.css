@@ -39,7 +39,7 @@ html, body {
 
 .navbar-brand img
 {
-  height: 4rem;
+  height: 4rem;mx-auto my-3 text-center"
 }
 
 .navbar
@@ -80,7 +80,7 @@ html, body {
   box-shadow: 0 1rem 1rem rgba(0, 0, 0, .1);
 }
 .fixed {
-  background-image: url('../img/workmen2.jpg');
+  background-image: url('../img/MainPageImage.jpg');
   background-color: rgba(0,0,0, 0.6);
   background-blend-mode: darken;
   position: fixed;
@@ -120,6 +120,7 @@ html, body {
   margin-top: 1rem;
 }
 .about-paragraph{
+  clear:both;
   font-size: 18px;
 }
 .section-border{
